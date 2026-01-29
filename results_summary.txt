@@ -1,0 +1,9 @@
+
+
+Overall Accuracy:
+98.04%
+
+Key Observations:
+- Insertion class achieved highest reliability due to strong temporal cues.
+- Minor confusion observed between Deletion and Duplication.
+- Optical Flow significantly improved temporal discrimination.
